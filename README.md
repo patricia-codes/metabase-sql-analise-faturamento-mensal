@@ -68,8 +68,18 @@ ORDER BY Ano, Mes;
 ## 📈 Visualização dos Dados
 
 A visualização foi construída no **Metabase** em formato de **gráfico de barras**, permitindo a comparação do faturamento mensal entre diferentes anos.
+---
 
-### 🔎 Exemplos de insights possíveis
+### 📊 Faturamento mensal por ano (sem filtro de data)
+
+![Faturamento mensal por ano](images/total_faturado_por_mes.png)
+
+### 📅 Faturamento mensal com filtro de data aplicado (a partir de 2018)
+
+![Faturamento mensal com filtro de data](total_faturado_por_mes_com_filtro.png)
+---
+
+### 🔎 Insights
 
 - Crescimento ou queda de faturamento ao longo dos meses  
 - Comparação de desempenho entre anos  
