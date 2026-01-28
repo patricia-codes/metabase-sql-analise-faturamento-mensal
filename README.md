@@ -72,7 +72,7 @@ A visualização foi construída no **Metabase** em formato de **gráfico de bar
 
 ### 📊 Faturamento mensal por ano (sem filtro de data)
 
-![Faturamento mensal por ano](images/total_faturado_por_mes.png)
+![Faturamento mensal por ano](total_faturado_sem_filtro.png)
 
 ### 📅 Faturamento mensal com filtro de data aplicado (a partir de 2018)
 
